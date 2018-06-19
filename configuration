@@ -1,0 +1,2 @@
+NETWORK=func_functions
+ADDRESS=func_gateway:8080
